@@ -16,7 +16,6 @@ ShiftSync é uma aplicação de gerenciamento de horário de trabalho que permit
 - **ShiftSync.Application:** Implementa a lógica de negócios e serviços.
 - **ShiftSync.Core:** Define interfaces e modelos de dados.
 - **ShiftSync.Infrastructure:** Gerencia o acesso aos dados e configurações de persistência.
-- **ShiftSync.UnitTests:** Contém os testes automatizados para garantir a qualidade do código.
 
 ## Configuração
 
