@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "n1QnsnIAJJWTnnw7s6F869p0WEJtZvRtTZFdFmBAKFE=",
+  "Source": "ShiftSync.WebApi",
+  "BasePath": "_content/ShiftSync.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
